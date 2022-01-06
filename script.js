@@ -54,7 +54,6 @@ document.getElementById('btn_div').addEventListener('click', function () {
 
     lastOperand = parseInt(inputWindow.value, 10);
     operation = 'div';
-    inputWindow.value = '';
 })
 
 document.getElementById('btn_div').addEventListener('click', function () {
