@@ -1,13 +1,10 @@
 .calc-row {
-    height: 10vh;
-    margin: 10px;
+    height: 1vh;
+    margin: 1px;
     font-family: 'Share Tech Mono', monospace;
-    background-color: violet;
-    text-shadow: indigo;
 }
 
 .input-window {
     text-align: end;
     font-size: x-large;
-    background-color: aqua;
 }
